@@ -1,0 +1,9 @@
+{
+  "appId": "com.alexandre.clipforge",
+  "appName": "ClipForge",
+  "webDir": "www",
+  "backgroundColor": "#141414",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
